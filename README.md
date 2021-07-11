@@ -149,6 +149,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Our Contributors👩‍💻👨‍💻 :
 <a href="https://github.com/akshitadixit/RAKSHA/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=akshitadixit/RAKSHA" />
+   <img src="https://contributors-img.web.app/image?repo=ASLManasa/RAKSHA" />
 </a>
 
 
